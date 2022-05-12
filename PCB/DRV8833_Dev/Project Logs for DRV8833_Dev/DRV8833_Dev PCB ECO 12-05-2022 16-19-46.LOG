@@ -1,0 +1,138 @@
+Added Component: Designator=Conn1(FP-M20-9990846-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=Conn2(FP-M20-9990846-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-PWP0016C-IPC_B)
+Add component (AddParameter): Name = "Case/Package"; Value = "HTSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fault Protection"; Value = "Over Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "PWM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "10.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "3mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "DRV8833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "3mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "NMOS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AIN1 Pin=Conn2-1
+Added Pin To Net: NetName=AIN1 Pin=U?-16
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=Conn2-2
+Added Pin To Net: NetName=AIN2 Pin=U?-15
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AISENS Pin=Conn1-3
+Added Pin To Net: NetName=AISENS Pin=U?-3
+Added Net: Name=AISENS
+Added Pin To Net: NetName=AOUT1 Pin=Conn1-2
+Added Pin To Net: NetName=AOUT1 Pin=U?-2
+Added Net: Name=AOUT1
+Added Pin To Net: NetName=AOUT2 Pin=Conn1-4
+Added Pin To Net: NetName=AOUT2 Pin=U?-4
+Added Net: Name=AOUT2
+Added Pin To Net: NetName=BIN1 Pin=Conn2-8
+Added Pin To Net: NetName=BIN1 Pin=U?-9
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=Conn2-7
+Added Pin To Net: NetName=BIN2 Pin=U?-10
+Added Net: Name=BIN2
+Added Pin To Net: NetName=BISENS Pin=Conn1-6
+Added Pin To Net: NetName=BISENS Pin=U?-6
+Added Net: Name=BISENS
+Added Pin To Net: NetName=BOUT1 Pin=Conn1-7
+Added Pin To Net: NetName=BOUT1 Pin=U?-7
+Added Net: Name=BOUT1
+Added Pin To Net: NetName=BOUT2 Pin=Conn1-5
+Added Pin To Net: NetName=BOUT2 Pin=U?-5
+Added Net: Name=BOUT2
+Added Pin To Net: NetName=FAULT Pin=Conn1-8
+Added Pin To Net: NetName=FAULT Pin=U?-8
+Added Net: Name=FAULT
+Added Pin To Net: NetName=GND Pin=Conn2-4
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-17
+Added Net: Name=GND
+Added Pin To Net: NetName=SLEEP Pin=Conn1-1
+Added Pin To Net: NetName=SLEEP Pin=U?-1
+Added Net: Name=SLEEP
+Added Pin To Net: NetName=VCP Pin=Conn2-6
+Added Pin To Net: NetName=VCP Pin=U?-11
+Added Net: Name=VCP
+Added Pin To Net: NetName=VINT Pin=Conn2-3
+Added Pin To Net: NetName=VINT Pin=U?-14
+Added Net: Name=VINT
+Added Pin To Net: NetName=VM Pin=Conn2-5
+Added Pin To Net: NetName=VM Pin=U?-12
+Added Net: Name=VM
+Added Class: Name=DRV8833_Dev
