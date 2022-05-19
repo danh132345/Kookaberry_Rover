@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DRV8833_Dev.PrjPcb]
+   Generated File[DRV8833_Dev_Legend_Top.gbr]
+   Generated File[DRV8833_Dev_Paste_Top.gbr]
+   Generated File[DRV8833_Dev_Soldermask_Top.gbr]
+   Generated File[DRV8833_Dev_Copper_Signal_Top.gbr]
+   Generated File[DRV8833_Dev_Mechanical_1.gbr]
+   Generated File[DRV8833_Dev_Drawing_1.gbr]
+   Generated File[DRV8833_Dev_Drillmap_1.gbr]
+   Generated File[DRV8833_Dev_Profile.gbr]
+   Generated File[DRV8833_Dev.EXTREP]
+   Generated File[DRV8833_Dev.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 15:27:02 On 19/05/2022

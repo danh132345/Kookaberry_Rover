@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD27C,0.001000*%
+%LNdrv8833_dev_profile-1*%
+%LPD*%
+G54D27*
+X0Y0D02*
+Y0087D01*
+X0112*
+Y0*
+X0*
+M02*
