@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=Conn1
+Change Component Designator: OldDesignator= NewDesignator=Conn2
+Change Net Name : Old Net Name=NetDRV8833_3 New Net Name=ASenToRes
+Change Net Name : Old Net Name=NetDRV8833_6 New Net Name=BSenToRes
+Added Member To Class: ClassName=DRV8833_Dev Member=Component C2 10uF
+Added Member To Class: ClassName=DRV8833_Dev Member=Component Conn1 M20-9990846
+Added Member To Class: ClassName=DRV8833_Dev Member=Component Conn2 M20-9990846
