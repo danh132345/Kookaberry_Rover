@@ -49,7 +49,11 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+<<<<<<< Updated upstream
 DocumentPath=DRV8833_Dev.PcbDoc
+=======
+DocumentPath=DRV8833_Dev.SchDoc
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,10 +67,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=WHKWYQHR
 
 [Document2]
 DocumentPath=DRV8833_Dev.SchDoc
+=======
+DocumentUniqueId=BJMNZNKZ
+
+[Document2]
+DocumentPath=DRV8833_Dev.PcbDoc
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +91,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=BJMNZNKZ
+=======
+DocumentUniqueId=WHKWYQHR
+>>>>>>> Stashed changes
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DRV8833_Dev\Design Rule Check - DRV8833_Dev.html
@@ -257,7 +272,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPD386BC (HP Officejet Pro 8610)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -357,7 +372,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPD386BC (HP Officejet Pro 8610)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -407,7 +422,11 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
+<<<<<<< Updated upstream
 Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Daniel\Documents\Uni\Year 3\Semester 1\ECTE 351\Resources\GIT\Kookaberry_Rover\PCB\DRV8833_Dev\DRV8833_Dev.PcbDoc
+=======
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Daniel\Documents\Uni\Year 3\Semester 1\ECTE 351\Kookaberry_Rover\PCB\DRV8833_Dev\DRV8833_Dev.PcbDoc
+>>>>>>> Stashed changes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -432,7 +451,11 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
+<<<<<<< Updated upstream
 Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=WHKWYQHR|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16973830~1,16973834~1,16973832~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=DRV8833_Dev_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=DRV8833_Dev_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=DRV8833_Dev_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=DRV8833_Dev_Legend_Bot.gbr|UserLayerName.Caption1=DRV8833_Dev_Paste_Top.gbr|UserLayerName.Caption10=DRV8833_Dev_Soldermask_Bot.gbr|UserLayerName.Caption11=DRV8833_Dev_Top_Component_Center.gbr|UserLayerName.Caption12=DRV8833_Dev_Mechanical_1.gbr|UserLayerName.Caption13=DRV8833_Dev_Copper_Signal_Bot.gbr|UserLayerName.Caption14=DRV8833_Dev_Top_Assembly.gbr|UserLayerName.Caption15=DRV8833_Dev_Top_Courtyard.gbr|UserLayerName.Caption16=DRV8833_Dev_Bottom_Component_Center.gbr|UserLayerName.Caption17=DRV8833_Dev_Bottom_Assembly.gbr|UserLayerName.Caption18=DRV8833_Dev_Copper_Signal_Top.gbr|UserLayerName.Caption19=DRV8833_Dev_Paste_Bot.gbr|UserLayerName.Caption2=DRV8833_Dev_Legend_Top.gbr|UserLayerName.Caption3=DRV8833_Dev_Soldermask_Top.gbr|UserLayerName.Caption4=DRV8833_Dev_Top_3D_Body.gbr|UserLayerName.Caption5=DRV8833_Dev_Bottom_Courtyard.gbr|UserLayerName.Caption6=DRV8833_Dev_Bottom_3D_Body.gbr|UserLayerName.Caption7=DRV8833_Dev_Pads_Top.gbr|UserLayerName.Caption8=DRV8833_Dev_Pads_Bot.gbr|UserLayerName.Caption9=DRV8833_Dev_Keep-out.gbr|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16908304|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908293|UserLayerName.Layer15=16908303|UserLayerName.Layer16=16908312|UserLayerName.Layer17=16908308|UserLayerName.Layer18=16777217|UserLayerName.Layer19=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908309|UserLayerName.Layer6=16908311|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973837|DocumentPath=C:\Users\Daniel\Documents\Uni\Year 3\Semester 1\ECTE 351\Resources\GIT\Kookaberry_Rover\PCB\DRV8833_Dev\DRV8833_Dev.PcbDoc
+=======
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=WHKWYQHR|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16973830~1,16973834~1,16973832~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=DRV8833_Dev_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=DRV8833_Dev_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=DRV8833_Dev_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=DRV8833_Dev_Legend_Bot.gbr|UserLayerName.Caption1=DRV8833_Dev_Paste_Top.gbr|UserLayerName.Caption10=DRV8833_Dev_Soldermask_Bot.gbr|UserLayerName.Caption11=DRV8833_Dev_Top_Component_Center.gbr|UserLayerName.Caption12=DRV8833_Dev_Mechanical_1.gbr|UserLayerName.Caption13=DRV8833_Dev_Copper_Signal_Bot.gbr|UserLayerName.Caption14=DRV8833_Dev_Top_Assembly.gbr|UserLayerName.Caption15=DRV8833_Dev_Top_Courtyard.gbr|UserLayerName.Caption16=DRV8833_Dev_Bottom_Component_Center.gbr|UserLayerName.Caption17=DRV8833_Dev_Bottom_Assembly.gbr|UserLayerName.Caption18=DRV8833_Dev_Copper_Signal_Top.gbr|UserLayerName.Caption19=DRV8833_Dev_Paste_Bot.gbr|UserLayerName.Caption2=DRV8833_Dev_Legend_Top.gbr|UserLayerName.Caption3=DRV8833_Dev_Soldermask_Top.gbr|UserLayerName.Caption4=DRV8833_Dev_Top_3D_Body.gbr|UserLayerName.Caption5=DRV8833_Dev_Bottom_Courtyard.gbr|UserLayerName.Caption6=DRV8833_Dev_Bottom_3D_Body.gbr|UserLayerName.Caption7=DRV8833_Dev_Keep-out.gbr|UserLayerName.Caption8=DRV8833_Dev_Pads_Top.gbr|UserLayerName.Caption9=DRV8833_Dev_Pads_Bot.gbr|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16908304|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908293|UserLayerName.Layer15=16908303|UserLayerName.Layer16=16908312|UserLayerName.Layer17=16908308|UserLayerName.Layer18=16777217|UserLayerName.Layer19=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908309|UserLayerName.Layer6=16908311|UserLayerName.Layer7=16973837|UserLayerName.Layer8=16973848|UserLayerName.Layer9=16973849|DocumentPath=C:\Users\Daniel\Documents\Uni\Year 3\Semester 1\ECTE 351\Kookaberry_Rover\PCB\DRV8833_Dev\DRV8833_Dev.PcbDoc
+>>>>>>> Stashed changes
 
 [OutputGroup6]
 Name=Report Outputs
